@@ -101,5 +101,3 @@ Distribuido bajo la licencia MIT. Ver el archivo [`LICENSE`](LICENSE) para más 
 ## 🤝 Autor
 
 Desarrollado por [Alejandro609x](https://github.com/Alejandro609x)
-
-```

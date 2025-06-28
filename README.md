@@ -89,13 +89,7 @@ Esto generará un archivo `reporte_analisis.txt` que incluye:
 * Cadenas sospechosas encontradas
 * Metadatos completos y posibles anomalías
 * Contenido oculto detectado con Binwalk
-
----
-
-## 📄 Licencia
-
-Distribuido bajo la licencia MIT. Ver el archivo [`LICENSE`](LICENSE) para más detalles.
-
+  
 ---
 
 ## 🤝 Autor
